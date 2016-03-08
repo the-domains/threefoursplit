@@ -1,0 +1,28 @@
+name: threefoursplit
+favicon: null
+layout_spectrum: 0.8953002283815295
+typography_spectrum: 0.844394699903205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8039763839915395
+  lightness: 0.1853943367023021
+  saturation: 0.9339809771627188
+  rhythmicContrast: 0.5808734185993671
+purpose: []
